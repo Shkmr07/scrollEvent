@@ -1,0 +1,16 @@
+* {
+  padding: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.normal p {
+  font-size: larger;
+  border-bottom: 1px solid black;
+}
+
+.advance p {
+  background-color: black;
+  color: white;
+  font-size: larger;
+  border-bottom: 1px solid black;
+}
